@@ -55,7 +55,7 @@
     "playwright": "1.61.1",
     "semantic-release": "25.0.5",
     "typedoc": "0.28.19",
-    "typescript": "5.9.3",
+    "typescript": "6.0.3",
     "vitest": "3.2.6"
   },
   "typedocOptions": {
